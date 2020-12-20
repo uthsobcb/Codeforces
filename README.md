@@ -1,2 +1,3 @@
-# Codeforces problems solving using C
+# Codeforces problems solving using C/C++
+
 
